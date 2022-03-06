@@ -36,35 +36,6 @@ nav {
 	line-height:530px;
 	color:white;
 	font-size:50px;
-	-webkit-animation: bannerText 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-	        animation: bannerText 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-}
-
-@-webkit-keyframes bannerText {
-   0% {
-    letter-spacing: -0.5em;
-    -webkit-filter: blur(12px);
-            filter: blur(12px);
-    opacity: 0;
-  }
-  100% {
-    -webkit-filter: blur(0px);
-            filter: blur(0px);
-    opacity: 1;
-  }
-}
-@keyframes banner {
-  0% {
-    letter-spacing: -0.5em;
-    -webkit-filter: blur(12px);
-            filter: blur(12px);
-    opacity: 0;
-  }
-  100% {
-    -webkit-filter: blur(0px);
-            filter: blur(0px);
-    opacity: 1;
-  }
 }
 
 .mainTitle {
