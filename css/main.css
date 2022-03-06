@@ -241,6 +241,7 @@ table {
 }
 
 .projectTitle {
+	font-family: 'Noto Sans KR', sans-serif;
 	font-weight:800;
 	text-align:center;
 	padding-top:40px;
@@ -280,7 +281,8 @@ table {
 	font-size:15px;
 	display:inline-block;
 	width:350px;
-	height:60px;
+	height:70px;
+	padding-left:20px;
 }
 
 .contactWrap {
