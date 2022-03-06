@@ -33,7 +33,7 @@ nav {
 .bannerText {
 	font-family: 'Black Han Sans', sans-serif;
 	text-align:center;
-	line-height:530px;
+	line-height:380px;
 	color:white;
 	font-size:50px;
 	-webkit-animation: bannerText 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
