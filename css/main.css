@@ -3,6 +3,10 @@ body {
 	padding:0;
 }
 
+table {
+	margin:auto;
+}
+
 nav {
 	z-index:1;
 	position:fixed;
