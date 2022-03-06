@@ -156,8 +156,8 @@ table {
 }
 
 .frontlogo {
-	width:150px;
-	height:130px;
+	max-width:100%;
+	max-height:100%;
 	border-radius:6%;
 	background-color:white;
 	display:inline-block;
@@ -175,15 +175,18 @@ table {
 .frontImg{
 	padding-top:10px;
 	padding-bottom:10px;	
-	width:50px;
-	height:130px;
-	
+	width:30px;
+	height:130px;	
+}
+
+.logo_Content {
+	display:inline-block
 }
 
 .backendLogo {
 	display:inline-block;
 	margin-left:40px;
-	margin-right:40px;
+	margin-right:40px;	
 }
 
 .backendContent {
