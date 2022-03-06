@@ -1,0 +1,16 @@
+.footer_Wrap {
+	background-color:black;
+	height:150px;
+}
+
+.footer_Content {
+	padding-top:15px;
+	text-align:center;
+}
+
+.footer_title {
+	color:white;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-weight:800;
+	font-size:12px;
+}
