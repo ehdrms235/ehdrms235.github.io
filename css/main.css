@@ -31,6 +31,7 @@ nav {
 }
 
 .bannerText {
+	height:50px;
 	font-family: 'Black Han Sans', sans-serif;
 	text-align:center;
 	line-height:380px;
