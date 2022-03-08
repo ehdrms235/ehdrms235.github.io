@@ -124,10 +124,13 @@ nav {
 }
 
 .image {
+	background-image: url("../images/picture.jpg");
+	background-size:cover;
+	position:center;
 	border:1px solid #D8D8D8;
 	border-radius:50%;
-	height:200px;
-	width:200px;
+	height:250px;
+	width:250px;
 	margin:auto;
 	margin-top:70px;	
 }
